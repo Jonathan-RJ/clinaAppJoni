@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: #00d2ff;  
+  background: -webkit-linear-gradient(to right, #928DAB, #00d2ff); 
+  background: linear-gradient(to right, #928DAB, #00d2ff);  
+  color: #fff;
+}
+
+.content-main{
+  margin-top: 8rem;
+  display: grid;
+  justify-content: center ;
+}
+
+.content{
+  border: 1px solid rgb(255, 255, 255,0.6);
+  padding: 1rem;
+  border-radius: 4%;
+  background-color: rgb(255, 255, 255, 0.3);
+  backdrop-filter: blur(20px);
+}
+
+.clima-title{
+  font-family: 'Staatliches', cursive;
+  font-size: 4rem;
+}
+
+input{
+  height: 2rem;
+  width: 100%;
+  border: none;
+  border-radius: 4rem;
+  text-align: center;
+  outline: solid 2px rgb(14, 118, 179);
+} 
+
+.data-title{
+  text-align: center;
+  font-family: 'Staatliches', cursive;
+  font-size: 2rem;
+}
+
+.cont-element{
+  display: flex;
+  justify-content: space-around;
+}
+
+.data-value{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 1rem; 
+  border-radius: 4%;
+  padding: 0.5rem;
+  font-size: 1rem;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  background-color: rgb(14, 118, 179, 0.5);
+  backdrop-filter: blur(50px);
+}
+
+span{
+  color: #003350;
+}
