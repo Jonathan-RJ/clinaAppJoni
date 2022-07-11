@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clinaAppJoni/static/css/main.7687333b.css",
+    "main.js": "/clinaAppJoni/static/js/main.1f775959.js",
+    "static/js/787.44040e81.chunk.js": "/clinaAppJoni/static/js/787.44040e81.chunk.js",
+    "index.html": "/clinaAppJoni/index.html",
+    "main.7687333b.css.map": "/clinaAppJoni/static/css/main.7687333b.css.map",
+    "main.1f775959.js.map": "/clinaAppJoni/static/js/main.1f775959.js.map",
+    "787.44040e81.chunk.js.map": "/clinaAppJoni/static/js/787.44040e81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7687333b.css",
+    "static/js/main.1f775959.js"
+  ]
+}
